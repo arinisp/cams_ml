@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7425ce0-7ed3-4f68-8229-670a0131c014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamental_ml_04.ipynb" afterDir="false" />
+    <list default="true" id="a7425ce0-7ed3-4f68-8229-670a0131c014" name="Default Changelist" comment="model_01">
+      <change afterPath="$PROJECT_DIR$/fundamental_ml_05.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stock.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +25,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -49,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572490305728</updated>
-      <workItem from="1572490306797" duration="5431000" />
+      <workItem from="1572490306797" duration="11338000" />
     </task>
     <task id="LOCAL-00001" summary="matplotlib">
       <created>1572492197544</created>
@@ -72,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1572494514763</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pandas_dataframe">
+      <created>1572496840011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1572496840011</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,8 +100,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="matplotlib" />
     <MESSAGE value="numpy" />
-    <option name="LAST_COMMIT_MESSAGE" value="numpy" />
+    <MESSAGE value="pandas_dataframe" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas_dataframe" />
   </component>
 </project>
