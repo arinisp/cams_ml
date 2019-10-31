@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7425ce0-7ed3-4f68-8229-670a0131c014" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/fundamental_ml_03.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamental_ml_04.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572490305728</updated>
-      <workItem from="1572490306797" duration="4051000" />
+      <workItem from="1572490306797" duration="5431000" />
     </task>
     <task id="LOCAL-00001" summary="matplotlib">
       <created>1572492197544</created>
@@ -59,7 +58,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572492197544</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="numpy">
+      <created>1572494373951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494373951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="numpy">
+      <created>1572494514763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1572494514763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="matplotlib" />
-    <option name="LAST_COMMIT_MESSAGE" value="matplotlib" />
+    <MESSAGE value="numpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="numpy" />
   </component>
 </project>
